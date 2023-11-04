@@ -15,8 +15,33 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="IrmaMoves.cpp">
+    <ClCompile Include="IrmaMoves.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="testcase05.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IrmaMoves.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="testcase05.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="testcase01.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="testcase02.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="testcase03.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="testcase04.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
